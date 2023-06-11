@@ -453,3 +453,4 @@ console.log("vector2", vector2);//empty
 //  let similarity = calculateSimilarity();
 //  console.log('Similarity Score:', similarity);
 
+//test git change
